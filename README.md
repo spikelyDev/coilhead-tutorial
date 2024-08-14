@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to reach out:
 
-- YouTube: [Your Channel](https://www.youtube.com/channel/spikely.)
-- GitHub: [@yourusername](https://github.com/spikelyDev)
+- YouTube: [spikely.l](https://www.youtube.com/channel/spikely.)
+- GitHub: [@spikelyDev](https://github.com/spikelyDev)
 - Email: spikelygames@gmail.com
