@@ -6,6 +6,11 @@ This Unity project is based on the code featured in my YouTube video tutorial on
 
 Watch the full tutorial on YouTube: [How to Code Coilhead from Lethal Company in Unity](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
 
+## Code Snippets
+PlayerController: [PlayerController.cs]("https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/PlayerController.cs")
+Coilhead: [Coilhead.cs]("https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/Coilhead.cs")
+BoundsExtensions: [BoundsExtensions.cs]("https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/Extensions/BoundsExtensions.cs")
+
 ## Project Overview
 
 This project includes the following key features:
