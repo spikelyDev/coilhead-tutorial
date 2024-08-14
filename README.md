@@ -8,8 +8,11 @@ Watch the full tutorial on YouTube: [How to Code Coilhead from Lethal Company in
 
 ## Code Snippets
 PlayerController: [PlayerController.cs](https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/PlayerController.cs)
+
 Coilhead: [Coilhead.cs](https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/Coilhead.cs)
+
 BoundsExtensions: [BoundsExtensions.cs](https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/Extensions/BoundsExtensions.cs)
+
 
 ## Project Overview
 
