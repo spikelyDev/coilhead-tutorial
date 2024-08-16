@@ -4,7 +4,7 @@ This Unity project is based on the code featured in my YouTube video tutorial on
 
 ## Video Tutorial
 
-Watch the full tutorial on YouTube: [How to Code Coilhead from Lethal Company in Unity]([https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://www.youtube.com/watch?v=fhU1D8h56qY)
+Watch the full tutorial on YouTube: [How to Code Coilhead from Lethal Company in Unity](https://www.youtube.com/watch?v=fhU1D8h56qY)
 
 ## Code Snippets
 PlayerController: [PlayerController.cs](https://github.com/spikelyDev/coilhead-tutorial/blob/main/Assets/Scripts/PlayerController.cs)
